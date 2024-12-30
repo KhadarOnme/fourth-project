@@ -1,0 +1,88 @@
+/* .box1{
+    backgr
+ound-color: red;
+    width: 200px;
+    height: 150px;
+    float: right; 
+    margin-right: 200px;
+
+}
+.box2{
+    background-color: yellow;
+    width: 200px;
+    height: 150px;
+    
+} */
+ /* p{
+    color: red;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+    word-spacing: 15px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: smaller;
+    font-style: initial;
+    font-weight: bolder;
+
+ } */
+  /* .box{
+    background-color: yellow;
+    width: 300px;
+    height: 150px;
+  }
+.box-container{
+     display: flex;
+    gap: 20px;  */
+    /* flex-direction: row-reverse;
+    flex-direction: column-reverse; */
+    /* justify-content: left;
+    justify-content: right;
+    justify-content: center; */
+    /* wxay yareyan space waxana ugu fcn evenly cabir isku mid ayu sina */
+    /* justify-content: space-between;
+    justify-content: space-around; */
+    /* justify-content: space-evenly;
+} */
+
+/* body{
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin: 0;
+} */
+.card-container{
+  display: flex;
+  gap: 20px;
+}
+.card{
+  background-color: orange;
+  color: white;
+  width: 300px;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 210px;
+  margin-left: 35px;
+ 
+}
+.card img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+.card h1{
+  font-size: 10px;
+  margin: 0px;
+}
+.card h2{
+  font-size: 10px;
+  margin: 5px;
+  text-transform: uppercase;
+}
+.card p{
+  font-size: 12px;
+  margin: 0px;
+}
